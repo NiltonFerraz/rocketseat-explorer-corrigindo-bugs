@@ -1,18 +1,13 @@
-# Iniciante - Corrigindo bugs **👀**
+# 
+# 💻 Desafio corrigir bugs
 
-# 💻 Sobre o desafio
-
-Nesse desafio, você receberá um código com o projeto desenvolvido durante as aulas da Fase 01.
-Mas, a surpresa vem aí...  **👀**  
-O código sofreu algumas alterações.
+👀 Neste desafio aprendi a corrigir bus em CSS, alterando o layout do Html.
 
 
 
-Topa encarar esse desafio e deixar o site com a mesma carinha de antes? **💜**
+## Screenshots
 
-
-Boa sorte e boooooora codar! **🚀**
-
+![image](https://github.com/user-attachments/assets/ca76c017-b6aa-4757-8097-86db91b98069)
 
 
 Feito com 💜 por Rocketseat 👋
