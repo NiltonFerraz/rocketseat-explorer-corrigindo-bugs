@@ -1,4 +1,4 @@
-# Iniciante - Corrigindo bugs (01) **👀**
+# Iniciante - Corrigindo bugs **👀**
 
 # 💻 Sobre o desafio
 
@@ -14,11 +14,6 @@ Tente se desafiar e não olhar a resposta mas, caso apareça alguma dificuldade,
 
 Para facilitar, vamos deixar **[aqui](https://explorer-stage02-p01.vercel.app/)** o link do projeto em si e [**aqui**](https://www.figma.com/file/fAvYZz4dPV5MfhL77XkqkD/Explorer---Stage-01) o link do Figma.
 
-## Código do desafio
-
-Abaixo você terá o código ~~(quebrado)~~ do desafio zipado. 
-
-[Código do desafio - Fase 01](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/64999d76-99f7-4b3f-bcab-41946db94507/Untitled.zip)
 
 Boa sorte e boooooora codar! **🚀**
 
